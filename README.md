@@ -1,3 +1,5 @@
+Fork of non-functional abandoned repo https://github.com/christian-byrne/img2colors-comfyui-node
+
 
 # Img2Color Palette Extractor ComfyUI Node
 
